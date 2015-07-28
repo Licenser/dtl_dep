@@ -1,7 +1,7 @@
 dtl_dep
 =====
 
-An OTP application
+An application demoing problems with the erlydtl compiler
 
 Build
 -----
