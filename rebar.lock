@@ -1,0 +1,4 @@
+[{<<"merl">>,
+  {git,"https://github.com/Licenser/merl.git",
+       {ref,"1fcb4b03add12f57aa71a991f757bd9794892d7d"}},
+  0}].
