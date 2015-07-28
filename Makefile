@@ -5,3 +5,4 @@ argh:
 	rm -rf _build/default/plugins/
 	# Now if we run rebar3 it will get the plugins and compile with the merl from the deps
 	rebar3 erlydtl compile
+	[ -f _build/default/lib/dtl_dep/ebin/fancy_dtl.beam ]
